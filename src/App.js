@@ -1,4 +1,4 @@
-import logo from './alumno.jpeg';
+import logo from './logo.svg';
 import './App.css';
 
 function App() {
@@ -7,15 +7,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-        RIOS MARINEZ ITZEL MARIANA  - EXAMEN PARCIAL 2
+          RIOS MARTINEZ ITZEL MARIANA - 2025
         </p>
         <a
           className="App-link"
-          href="https:www.utd.edu.mx"
+          href="https://reactjs.org"
           target="_blank"
           rel="noopener noreferrer"
         >
-          UNIVERSIDAD TECNOLÓGICA DE DURANGO - CLICK PARA VISITAR EL SITIO
+          Learn React
         </a>
       </header>
     </div>
